@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Doc/Artriste.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a84de683e888bc3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Doc/ForHives.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,18 +162,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6dff2d094f864933",
+  "active": "a84de683e888bc3c",
   "lastOpenFiles": [
-    "X. Templates/Template - Daily.md",
-    "X. Templates/Template - annotation pdf.md",
-    "X. Templates/!Template - Note de base.md",
-    "X. Templates/!Template - Aliases.md",
-    "X. Templates",
-    "README.md",
-    "Doc/Portefolio Andy.md",
+    "Doc/Artriste.md",
+    "Doc/ForBees/SongFlow.md",
+    "Doc/ForBees/ForBees.md",
     "Doc/ForHives.md",
     "Doc/ForMenu.md",
+    "Doc/Portefolio Andy.md",
+    "Doc/ForBees",
     "Doc/My-Makeup.md",
+    "Doc/Second-brain Andy.md",
+    "README.md",
+    "X. Templates/!Template - Aliases.md",
+    "X. Templates/!Template - Note de base.md",
+    "X. Templates/Template - Daily.md",
+    "X. Templates/Template - annotation pdf.md",
+    "X. Templates",
     "Dashboard.md",
     "Doc"
   ]
