@@ -23,9 +23,11 @@
             "id": "a84de683e888bc3c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Bibliothèque d'images/vps users.png"
+                "file": "Doc/Artriste.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibliothèque d'images/vps users.png",
+                "file": "Doc/Artriste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibliothèque d'images/vps users.png",
+                "file": "Doc/Artriste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bibliothèque d'images/vps users.png"
+                "file": "Doc/Artriste.md"
               }
             }
           }
@@ -160,8 +162,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6dff2d094f864933",
+  "active": "a84de683e888bc3c",
   "lastOpenFiles": [
+    "X. Templates/!Template - Note de base.md",
+    "Doc/Artriste.md",
+    "Doc/ForBees/SongFlow.md",
+    "Doc/ForBees/ForBees.md",
+    "Bibliothèque d'images/vps users.png",
     "Bibliothèque d'images/background.png",
     "Bibliothèque d'images/ForHives.zip",
     "Bibliothèque d'images/ForHives.png",
@@ -170,18 +177,13 @@
     "Bibliothèque d'images/ForHives (1).ai",
     "Doc/ForHives.md",
     "Bibliothèque d'images",
-    "Bibliothèque d'images/vps users.png",
     "Doc/Portefolio Andy.md",
     "Doc/My-Makeup.md",
     "Doc/ForMenu.md",
-    "Doc/Artriste.md",
-    "Doc/ForBees/SongFlow.md",
-    "Doc/ForBees/ForBees.md",
     "Doc/ForBees",
     "Doc/Second-brain Andy.md",
     "README.md",
     "X. Templates/!Template - Aliases.md",
-    "X. Templates/!Template - Note de base.md",
     "X. Templates/Template - Daily.md",
     "X. Templates/Template - annotation pdf.md",
     "X. Templates",
