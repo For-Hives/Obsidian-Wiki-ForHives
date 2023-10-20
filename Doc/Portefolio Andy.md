@@ -1,5 +1,14 @@
+> [!abstract]+ Présentation
+> 
+> Portefolio de Andy fait avec NextJS & Strapi 
 
-# Conf nginx caprover
+> [!example]+ Liens et ressources liées
+> 
+> [Portefolio Andy Liens discord (.env & github CI)](https://discord.com/channels/749294142114496646/1130620313823088732)
+> [Projet de l'API de mon portefolio sur Github](https://github.com/CinquinAndy/api-PortefolioV6)
+> [Projet de mon Portefolio sur Github](https://github.com/CinquinAndy/PortefolioV6)
+
+### Conf nginx caprover
 ```
 # !!! Alerte chimie ici !!! ( pour faire fonctionner les images, besoin de bidouiller le proxy pass header )
 # Redirection for www.andy-cinquin.com to andy-cinquin.com
