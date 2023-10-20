@@ -22,6 +22,13 @@
 > 	- [Obsidian Publish Wiki](https://publish.obsidian.md/forhives-wiki)
 > 
 
+> [!tip] Serveur Contabo 
+> `ssh CinquinAndy@andy-cinquin.fr`
+> 
+> Utilisateurs VPS : 
+> ![[vps users.png]]
+
+
 ---
 [contact@forhives.fr](mailto:contact@forhives.fr)
 

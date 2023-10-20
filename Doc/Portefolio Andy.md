@@ -5,8 +5,15 @@
 > [!example]+ Liens et ressources liées
 > 
 > [Portefolio Andy Liens discord (.env & github CI)](https://discord.com/channels/749294142114496646/1130620313823088732)
-> [Projet de l'API de mon portefolio sur Github](https://github.com/CinquinAndy/api-PortefolioV6)
-> [Projet de mon Portefolio sur Github](https://github.com/CinquinAndy/PortefolioV6)
+> - **GitHub** :
+> 	- [Projet de l'API de mon portefolio sur Github](https://github.com/CinquinAndy/api-PortefolioV6)
+> 	- [Projet de mon Portefolio sur Github](https://github.com/CinquinAndy/PortefolioV6)
+> - **CapRover** : 
+> 	- [CapRover API](https://captain.beta.andy-cinquin.fr/#/apps/details/andycinquin-api-portefoliov6)
+> 	- [CapRover PgSQL](https://captain.beta.andy-cinquin.fr/#/apps/details/andycinquin-pgsql-portefoliov6)
+> 	- [CapRover Website](https://captain.beta.andy-cinquin.fr/#/apps/details/andycinquin-portefoliov6)
+> - **OVH** : 
+> 	- 
 
 ### Conf nginx caprover
 ```
