@@ -1,10 +1,17 @@
-# Obsidian Wiki ForHives
-Wiki ForHives, ici on a toutes les infos sur les projets & tout ce qui s'en suit !  
+# Obsidian Wiki ForHives 🌎
 
-***⚡(En cours de construction)***
-## Accueil
+> Bienvenue sur le Wiki de ForHives – votre ruche de connaissances où chaque article fertilise l'essaim d'idées qui propulse nos projets innovants. Plongez dans l'exploration et découvrez comment notre communauté travaille ensemble pour bourdonner de changement dans le monde. 
+
+![background.png](background.png)
+## Projets ForHives 🐝
+### Projets principaux
+- [[My-Makeup]]
 - [[ForMenu]]
 - [[ForHives]]
-- [[My-Makeup]]
+- [[Artriste]]
+### Projets persos
 - [[Portefolio Andy]]
 - [[Second-brain Andy]]
+### Projets bees
+- [[ForBees]]
+- [[SongFlow]]

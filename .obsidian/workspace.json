@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29eafbfc9e8926ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doc/Artriste.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a84de683e888bc3c",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,16 +151,16 @@
   },
   "active": "a84de683e888bc3c",
   "lastOpenFiles": [
-    "Doc/Second-brain Andy.md",
     "Doc/Portefolio Andy.md",
-    "Doc/My-Makeup.md",
     "Doc/ForMenu.md",
-    "README.md",
+    "Doc/My-Makeup.md",
     "Doc/ForHives.md",
     "Doc/Artriste.md",
-    "X. Templates/!Template - Note de base.md",
     "Doc/ForBees/SongFlow.md",
     "Doc/ForBees/ForBees.md",
+    "README.md",
+    "Doc/Second-brain Andy.md",
+    "X. Templates/!Template - Note de base.md",
     "Bibliothèque d'images/vps users.png",
     "Bibliothèque d'images/background.png",
     "Bibliothèque d'images/ForHives.zip",
