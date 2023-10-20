@@ -22,7 +22,7 @@
 >    - [Kanban & Orga ForHives](https://github.com/orgs/For-Hives/projects/4)
 >    - [RoadMap](https://github.com/For-Hives/forhives-front/issues/3)
 > - **DNS** : 
-> 	- [OVH Dns ForHives](https://www.ovh.com/manager/#/web/zone/forhives.fr)
+> 	- [OVH Dns ForHives](https://www.ovh.com/manager/#/web/zone/forhives.fr)( gérer par Andy )
 
 > [!tip] Serveur Contabo 
 > `ssh CinquinAndy@andy-cinquin.fr`
