@@ -10,17 +10,25 @@
 > 	- [My Makeup Chat](https://discord.com/channels/749294142114496646/1080042542529269760)
 > 	- [My Makeup Lien Secret (.env & liens)](https://discord.com/channels/749294142114496646/1080042637857411102)
 > 	- [My Makeup password (email)](https://discord.com/channels/749294142114496646/1124443177856794696)
-> - **Websites** : 
-> 	- [Preprod](https://preprod.my-makeup.fr/)
-> 	- [Preprod API](https://preprod.api.my-makeup.fr/)
-> 	- [Prod](https://my-makeup.fr/)
-> 	- [API](https://api.my-makeup.fr/)
+> - **CapRover** : 
+> 	- [CapRover API My-Makeup](https://captain.beta.andy-cinquin.fr/#/apps/details/api-my-makeup)
+> 	- [CapRover API Preprod My-Makeup](https://captain.beta.andy-cinquin.fr/#/apps/details/api-preprod-my-makeup)
+> 	- [CapRover My-Makeup](https://captain.beta.andy-cinquin.fr/#/apps/details/my-makeup)
+> 	- [CapRover PgSQL My-Makeup](https://captain.beta.andy-cinquin.fr/#/apps/details/pgsql-my-makeup)
+> 	- [CapRover Preprod My-Makeup](https://captain.beta.andy-cinquin.fr/#/apps/details/preprod-my-makeup)
+> 	- [CapRover PgSQL Preprod My-Makeup](https://captain.beta.andy-cinquin.fr/#/apps/details/pgsql-preprod-my-makeup)
 > - **GitHub** : 
-> 	- [My Makeup](https://github.com/For-Hives/my-makeup)
-> 	- [API My Makeup](https://github.com/For-Hives/api-my-makeup)
-> - **Autres**
-> 	- [Gestion de projet Kanban My Makeup](https://github.com/orgs/For-Hives/projects/2)
-> 
+> 	- [GitHub My-Makeup](https://github.com/For-Hives/my-makeup)
+> 	- [GitHub API My-Makeup](https://github.com/For-Hives/api-my-makeup)
+> - **Website** : 
+> 	- [My-Makeup](https://my-makeup.fr/)
+> 	- [API My-Makeup](https://api.my-makeup.fr/)
+> 	- [Preprod My-Makeup](https://preprod.my-makeup.fr/)
+> 	- [Preprod API My-Makeup](https://preprod.api.my-makeup.fr/)
+> - **Gestion de projet** : 
+> 	- [Kanban My-Makeup](https://github.com/orgs/For-Hives/projects/2)
+> - **DNS** : 
+> 	- [DNS My-Makeup](https://www.ovh.com/manager/#/web/domain/my-makeup.fr/information) ( géré par Andy )
 
 ---
 contact@my-makeup.fr

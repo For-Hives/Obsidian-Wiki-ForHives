@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doc/ForMenu.md",
+                "file": "Doc/My-Makeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doc/ForMenu.md",
+                "file": "Doc/My-Makeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doc/ForMenu.md",
+                "file": "Doc/My-Makeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doc/ForMenu.md"
+                "file": "Doc/My-Makeup.md"
               }
             }
           }
@@ -164,8 +164,8 @@
   },
   "active": "a84de683e888bc3c",
   "lastOpenFiles": [
-    "README.md",
     "Doc/ForMenu.md",
+    "README.md",
     "Doc/ForHives.md",
     "Doc/My-Makeup.md",
     "Doc/Artriste.md",
