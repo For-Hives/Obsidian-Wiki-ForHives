@@ -1,1 +1,33 @@
-#a-expliquer 
+> [!abstract]+ Présentation
+> 
+> "My-Makeup est bien plus qu'une plateforme, c'est une opportunité pour les maquilleuses professionnelles de briller.  Notre mission est de simplifier la recherche de maquilleuses talentueuses tout en permettant aux artistes de présenter leur travail, leur parcours et leur passion. My-Makeup offre une visibilité inégalée et une opportunité de se démarquer. Rejoignez-nous dès maintenant et faites partie de cette révolution dans le monde du maquillage !"
+> 
+> Notre projet de faire un [Malt.fr](https://malt.fr) Like, mais pour les maquilleuses ! 
+
+> [!example]+ Liens et ressources liées
+> 
+> - **Discord** : 
+> 	- [My Makeup Chat](https://discord.com/channels/749294142114496646/1080042542529269760)
+> 	- [My Makeup Lien Secret (.env & liens)](https://discord.com/channels/749294142114496646/1080042637857411102)
+> 	- [My Makeup password (email)](https://discord.com/channels/749294142114496646/1124443177856794696)
+> - **Websites** : 
+> 	- [Preprod](https://preprod.my-makeup.fr/)
+> 	- [Preprod API](https://preprod.api.my-makeup.fr/)
+> 	- [Prod](https://my-makeup.fr/)
+> 	- [API](https://api.my-makeup.fr/)
+> - **GitHub** : 
+> 	- [My Makeup](https://github.com/For-Hives/my-makeup)
+> 	- [API My Makeup](https://github.com/For-Hives/api-my-makeup)
+> - **Autres**
+> 	- [Gestion de projet Kanban My Makeup](https://github.com/orgs/For-Hives/projects/2)
+> 
+
+---
+contact@my-makeup.fr
+jobs@my-makeup.fr
+help@my-makeup.fr
+pro@my-makeup.fr
+andy.cinquin@my-makeup.fr
+breval.lefloch@my-makeup.fr
+
+*pour les mots de passe voir : [channel discord my-makeup password](https://discord.com/channels/749294142114496646/1124443177856794696)*
