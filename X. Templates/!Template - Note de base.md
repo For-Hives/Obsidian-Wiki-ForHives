@@ -1,8 +1,4 @@
-> [!abstract]+ Définition
-> 
-> 
-
-> [!tip]+ Infos supplémentaires
+> [!abstract]+ Présentation
 > 
 > 
 
