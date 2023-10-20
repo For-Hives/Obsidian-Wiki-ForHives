@@ -1,0 +1,16 @@
+name: Deploy blog from Obsidian
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish_job:
+    runs-on: ubuntu-latest
+    name: Publish Obsidian notes to Github pages
+    steps:
+      - uses: x1sec/obsidian-to-hugo-action@main
+        with:
+          vault-path: documentation
+          github-token: ${{ secrets.GITHUB_TOKEN }}
