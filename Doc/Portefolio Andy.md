@@ -4,17 +4,31 @@
 
 > [!example]+ Liens et ressources liées
 > 
-> [Portefolio Andy Liens discord (.env & github CI)](https://discord.com/channels/749294142114496646/1130620313823088732)
-> - **GitHub** :
-> 	- [Projet de l'API de mon portefolio sur Github](https://github.com/CinquinAndy/api-PortefolioV6)
-> 	- [Projet de mon Portefolio sur Github](https://github.com/CinquinAndy/PortefolioV6)
+> - **Discord** : 
+> 	- [Portefolio Andy Liens discord (.env & github CI)](https://discord.com/channels/749294142114496646/1130620313823088732)
 > - **CapRover** : 
 > 	- [CapRover API](https://captain.beta.andy-cinquin.fr/#/apps/details/andycinquin-api-portefoliov6)
 > 	- [CapRover PgSQL](https://captain.beta.andy-cinquin.fr/#/apps/details/andycinquin-pgsql-portefoliov6)
 > 	- [CapRover Website](https://captain.beta.andy-cinquin.fr/#/apps/details/andycinquin-portefoliov6)
-> - **OVH** : 
-> 	- 
+> - **GitHub** : 
+> 	- [Projet de mon Portefolio sur Github](https://github.com/CinquinAndy/PortefolioV6)
+> 	- [Projet de l'API de mon portefolio sur Github](https://github.com/CinquinAndy/api-PortefolioV6)
+> - **Website** : 
+> 	- [version FR Portefolio](https://andy-cinquin.fr/)
+> 	- [version EN Portefolio](https://andy-cinquin.com/)
+> 	- [api Portefolio](https://api.andy-cinquin.fr/admin)
+> - **Gestion de projet** : 
+> 	- https://github.com/users/CinquinAndy/projects/8
+> - **DNS** : 
+> 	- [OVH dns Portefolio (.fr)](https://www.ovh.com/manager/#/web/zone/andy-cinquin.fr)
+> 	- [OVH dns Portefolio (.com)](https://www.ovh.com/manager/#/web/domain/andy-cinquin.com/information)
 
+
+---
+contact@andy-cinquin.fr
+
+
+---
 ### Conf nginx caprover
 ```
 # !!! Alerte chimie ici !!! ( pour faire fonctionner les images, besoin de bidouiller le proxy pass header )
