@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Doc/ForHives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Doc/ForHives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Doc/ForHives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Doc/ForHives.md"
               }
             }
           }
@@ -144,15 +144,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "6dff2d094f864933",
   "lastOpenFiles": [
+    "X. Templates/Template - Daily.md",
+    "X. Templates/Template - annotation pdf.md",
+    "X. Templates/!Template - Note de base.md",
+    "X. Templates/!Template - Aliases.md",
+    "X. Templates",
+    "README.md",
     "Doc/Portefolio Andy.md",
     "Doc/ForHives.md",
     "Doc/ForMenu.md",
-    "README.md",
     "Doc/My-Makeup.md",
     "Dashboard.md",
     "Doc"
