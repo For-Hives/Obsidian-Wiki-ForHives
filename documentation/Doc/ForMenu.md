@@ -1,3 +1,8 @@
+---
+title: formenu
+date: 2023-10-22
+---
+
 > [!abstract]+ Présentation
 > 
 > Notre plus gros projet, le but est de créer une carte digitale pour les menus des restaurants, remplacer le papier par une application, et apporter une toute nouvelle façon de consommer les cartes de restaurants en tant que client ! 

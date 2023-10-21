@@ -1,3 +1,8 @@
+---
+title: my-makeup
+date: 2023-10-22
+---
+
 > [!abstract]+ Présentation
 > 
 > "My-Makeup est bien plus qu'une plateforme, c'est une opportunité pour les maquilleuses professionnelles de briller.  Notre mission est de simplifier la recherche de maquilleuses talentueuses tout en permettant aux artistes de présenter leur travail, leur parcours et leur passion. My-Makeup offre une visibilité inégalée et une opportunité de se démarquer. Rejoignez-nous dès maintenant et faites partie de cette révolution dans le monde du maquillage !"

@@ -1,3 +1,8 @@
+---
+title: second brain andy
+date: 2023-10-22
+---
+
 > [!abstract]+ Présentation
 > 
 > J'ai, ici, l'équivalent de toutes les connaissances que j'ai amassés au fur & à mesure des années de développements, d'études, et d'entreprenariats ! 

@@ -1,3 +1,8 @@
+---
+title: songflow
+date: 2023-10-22
+---
+
 > [!abstract]+ Présentation
 > 
 > C'est le projet de notre giga crack international Mathéo, l'idée est de faire une plateforme de découverte musicale en fonction de nos écoutes et mood pour ne jamais manquer d'écoutes ! 

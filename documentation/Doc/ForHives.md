@@ -1,3 +1,8 @@
+---
+title: forhives
+date: 2023-10-22
+---
+
 > [!abstract]+ Présentation
 > 
 > "Rejoignez ForHives, La communauté où chaque ruche est un projet, chaque idée est une abeille, et la passion est la reine qui les gouverne. Travaillons ensemble pour donner vie à vos projets et changer le monde !"

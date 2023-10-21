@@ -1,3 +1,8 @@
+---
+title: artriste
+date: 2023-10-22
+---
+
 > [!abstract]+ Présentation
 > 
 > L'idée, partait d'une blague, créer une plateforme E-commerce de vente en ligne d'oeuvre d'art ultra unique et limitée. 

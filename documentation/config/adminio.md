@@ -1,12 +1,11 @@
 ---
-title: config formenu api
-date: 2023-10-21
+title: config adminio
+date: 2023-10-22
 ---
 
-Pour permettre d'accéder a l'api depuis le scope "formenu.fr/api" j'ai modifier la config *nginx* (du projet formenu-website ) pour :
+Pour permettre d'accéder de mettre en parallele l'api minio et la webui, j'ai modifier la conf *nginx* de `srv-captain--minio` :
 
 ```json
-
 <%
 if (s.forceSsl) {
 %>
@@ -64,20 +63,6 @@ server {
         # Simply change the Container HTTP Port from the dashboard HTTP panel
         set $upstream http://<%-s.localDomain%>:<%-s.containerHttpPort%>;
 
-        
-```edit
-    location /api/ {
-        rewrite ^/api/?(.*)$ /$1 break;
-        proxy_pass http://srv-captain--api-formenu:1339;
-        proxy_set_header Host $http_host;
-        proxy_set_header X-Real-IP $remote_addr;
-		proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-		proxy_set_header X-Forwarded-Proto $scheme;
-    }
-```
-```
-
-
         location / {
 
 
@@ -119,6 +104,43 @@ server {
 	}
 	%>
 	
+        }
+
+        # Used by Lets Encrypt
+        location /.well-known/acme-challenge/ {
+            root <%-s.staticWebRoot%>;
+        }
+        
+        # Used by CapRover for health check
+        location /.well-known/captain-identifier {
+            root <%-s.staticWebRoot%>;
+        }
+
+        error_page 502 /captain_502_custom_error_page.html;
+        location = /captain_502_custom_error_page.html {
+                root <%-s.customErrorPagesDirectory%>;
+                internal;
+        }
+}
+
+server {
+        listen              443 ssl http2;
+        ssl_certificate     <%-s.crtPath%>;
+        ssl_certificate_key <%-s.keyPath%>;
+        client_max_body_size 500m;
+        server_name  adminio.beta.andy-cinquin.fr;
+        
+        set $upstream http://<%-s.localDomain%>:<%-s.containerHttpPort%>;
+
+        location / {
+		proxy_pass http://srv-captain--minio:9001;
+		proxy_set_header Host $host;
+		proxy_set_header X-Real-IP $remote_addr;
+		proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+		proxy_set_header X-Forwarded-Proto $scheme;
+		proxy_set_header Upgrade $http_upgrade;
+		proxy_set_header Connection "upgrade";
+		proxy_http_version 1.1;
         }
 
         # Used by Lets Encrypt
