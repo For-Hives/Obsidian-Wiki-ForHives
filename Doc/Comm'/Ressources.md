@@ -170,7 +170,8 @@
 > 	- Les réseaux
 > 		- https://www.instagram.com/roytissier/
 > 	- Les mails
-> 		- xxx
+> 		- roytissier@gmail.com
+> 		- roy.tissier@formenu.fr
 > 	- Numéro de tel
 > 		- 06 67 64 09 55
 > 	- Pseudo Discord : 
@@ -193,11 +194,15 @@
 > - Romain ( futur aide / collab sur les projets / sur le dev etc )
 > 	- Les réseaux
 > 		- https://www.instagram.com/romain_maxsim/
+> 	- les mails
+> 		- RomainDFLS@gmail.com
 > 	- Pseudo Discord : 
 > 		- _romaind
 
 > - Joris  ( futur aide / collab sur les projets / sur le dev etc )
 > 	- Les réseaux
 > 		- https://www.instagram.com/jorisflohic/
+> 	- Les mails 
+> 		- flohic.joris@gmail.com
 > 	- Pseudo Discord : 
 > 		- jorisf
