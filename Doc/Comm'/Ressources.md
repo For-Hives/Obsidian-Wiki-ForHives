@@ -1,5 +1,6 @@
+(invitation Discord) : https://discord.gg/7PDcq5NxTQ
 # Les projets actuels :
-> - ForMenu :
+> - ***[[ForMenu]] - La carte de restaurant digital***
 > 	- Sites webs : 
 > 		- [ForMenu Website (landing page)](https://formenu.fr/)
 > 		- [ForMenu Website AP (gestion de contenu landing page)](https://api.formenu.fr/_/)
@@ -36,9 +37,9 @@
 > 	- Maquette Figma : 
 > 		- [Maquette ForMenu](https://www.figma.com/file/ZxIj6Kc9QWGo2uBoudSWBA/ForMenu?type=design&mode=design)
 > 
-> - ForHives :
+> - ***[[ForHives]] - L'entité générale qui gère tout les autres projet***
 > 	- Sites webs : 
-> 		- [https://forhives.fr/](https://forhives.fr/)
+> 		- [https://forhives.fr/](https://forhives.fr/) ( en construction, arrivera ~ mi 2024 )
 > 	- Réseaux : 
 > 		- [https://www.linkedin.com/company/forhives/](https://www.linkedin.com/company/forhives/about/?viewAsMember=true)
 > 		- [https://www.instagram.com/forhives.fr/](https://www.instagram.com/forhives.fr/)
@@ -47,8 +48,10 @@
 > 		- breval.lefloch@forhives.fr
 > 		- contact@forhives.fr
 > 		- pro@forhives.fr
+> 	- Discord
+> 		- (invitation Discord) : https://discord.gg/7PDcq5NxTQ
 > 
-> - MyMakeup :
+> - ***[[My-Makeup]] : La plateforme de recherche de maquilleuses professionnelles***
 > 	- Sites webs : 
 > 		- [https://my-makeup.fr/](https://my-makeup.fr/)
 > 		- [https://api.my-makeup.fr/](https://api.my-makeup.fr/)
@@ -65,18 +68,18 @@
 > 		- jobs@my-makeup.fr
 > 		- pro@my-makeup.fr
 > 
-> - Artriste :
+> - ***[[Artriste]] : une plateforme E-commerce de vente en ligne d'oeuvre d'art ultra unique et limitée***
 > 	- Site webs : 
 > 		- [https://artriste.cc/](https://artriste.cc/)
-> 		- api
+> 		- [https://artriste-api.beta.andy-cinquin.fr/_/](https://artriste-api.beta.andy-cinquin.fr/_/)
 > 	- Réseaux : 
 > 		- [https://www.linkedin.com/company/forhives-artriste/](https://www.linkedin.com/company/forhives-artriste/)
 > 		- [https://www.instagram.com/artriste.cc/](https://www.instagram.com/artriste.cc/)
 > 	- Mails : 
-> 		- z
+> 		- contact@artriste.cc
 
 # La team
-> - Andy 
+> - Andy ( CEO )
 > 	- Les projets
 > 		- [~Portefolio](https://andy-cinquin.fr/)
 > 		- [~Second Brain](https://second-brain.andy-cinquin.fr/)
@@ -87,82 +90,114 @@
 > 		- [~Les YD Rangées](https://lesydrangees.com/)
 > 		- [~Julie Sommaro](https://julie-sommaro.com/)
 > 		- [~Colors](https://colors.andy-cinquin.fr/)
+> 		- ~ projet à reprendre (à adapter) : https://infotel-safari.beta.andy-cinquin.fr/ (mais quasi fini)
 > 	- Les réseaux 
 > 		- https://www.instagram.com/cinquin.andy/
 > 		- https://www.instagram.com/cinquin.andy.design/
-> 		- malt / facebook / linkedin / discord
+> 		- https://www.malt.fr/profile/andycinquin
+> 		- https://www.facebook.com/andy.cinquin
+> 		- https://www.linkedin.com/in/andy-cinquin/
+> 		- https://github.com/CinquinAndy/
 > 	- Les mails 
 > 		- contact@andy-cinquin.fr
 > 		- veille@andy-cinquin.fr
 > 		- cinquin.andy@gmail.com
 > 	- Numéro de tel 
 > 		- 06 21 58 26 84
+> 	- Pseudo Discord : 
+> 		- cinquinandy
 > 
-> - Bréval 
+> - Bréval ( CTO )
 > 	- Les projets 
-> 		- z
+> 		- https://brev.al/ (portefolio)
 > 	- Les réseaux
-> 		- z
+> 		- https://www.instagram.com/lightinbitime/
+> 		- https://www.linkedin.com/in/breval-lefloch/
 > 	- Les mails
-> 		- z
+> 		- breval2000@live.fr 
+> 		- breval.lefloch@gmail.com 
+> 		- breval.lefloch@formenu.fr 
+> 		- breval.lefloch@forhives.fr
+> 		- breval.lefloch@my-makeup.fr
 > 	- Numéro de tel
-> 		- z
+> 		- 07 82 51 06 64
+> 	- Pseudo Discord : 
+> 		- lightin_
 > 
-> - Mathis  
+> - Mathis ( CTO )
 > 	- Les projets 
-> 		- z
+> 		- https://wadefade.fr/ (portefolio)
+> 		- Récupération emploi du temps école automatique : https://github.com/WadeFade/api-edt-epsi
 > 	- Les réseaux
-> 		- z
+> 		- https://www.linkedin.com/in/mathis-gauthier/
+> 		- https://www.instagram.com/mathisounet44/
 > 	- Les mails
-> 		- z
+> 		- gauthier.mathis44@gmail.com
+> 		- mathis.gauthier@formenu.fr
+> 		- mathis.gauthier@forhives.fr
 > 	- Numéro de tel
-> 		- z
+> 		- 07 81 91 09 49
+> 	- Pseudo Discord : 
+> 		- wade_fade
 > 
-> - Yoni  
+> - Yoni ( Lead commercial )
 > 	- Les réseaux
-> 		- z
+> 		- https://www.linkedin.com/in/yoni-kuntz-0b1186296/
+> 		- https://www.instagram.com/kuntz.yoni/
 > 	- Les mails
-> 		- z
+> 		- yoni.kuntz@formenu.fr
+> 		- yoni0kuntz@gmail.com
 > 	- Numéro de tel
-> 		- z
-
+> 		- 06 79 20 42 66
+> 	- Pseudo Discord : 
+> 		- letomatier
 # Les gens qui sont proches
-> - Damien  
-> 	- Les projets 
-> 		- z
+> - Damien ( celui qui va gérer les conseils financier )
 > 	- Les réseaux
-> 		- z
+> 		- https://www.instagram.com/damien980675/
+> 		- https://www.linkedin.com/in/damien-haleba-142284bb/
 > 	- Les mails
-> 		- z
+> 		- benisbak@hotmail.fr
+> 		- halebadamien@gmail.com
 > 	- Numéro de tel
-> 		- z
+> 		- 07 81 27 90 10
+> 	- Pseudo Discord : 
+> 		- banbudo0744
+> 		- daz1526
 
-> - Roy   
-> 	- Les projets 
-> 		- z
-> 	- Les réseaux
-> 		- z
-> 	- Les mails
-> 		- z
-> 	- Numéro de tel
-> 		- z
 
-> - Romain  
-> 	- Les projets 
-> 		- z
+> - Roy ( commercial en Haute Savoie )
 > 	- Les réseaux
-> 		- z
+> 		- https://www.instagram.com/roytissier/
 > 	- Les mails
-> 		- z
+> 		- xxx
 > 	- Numéro de tel
-> 		- z
+> 		- 06 67 64 09 55
+> 	- Pseudo Discord : 
+> 		- genkaro
 
-> - Joris  
+> - Orlane  ( petite soeur Andy, va aider pour la partie commerciale sur Montpellier )
 > 	- Les projets 
-> 		- z
+> 		- https://maitresse-nanou.fr/
 > 	- Les réseaux
-> 		- z
+> 		- https://www.instagram.com/orlane_cqn/
+> 		- https://www.instagram.com/maitresse_orlane_/
 > 	- Les mails
-> 		- z
+> 		- orlanelyon@gmail.com
+> 		- orlane.cinquin@gmail.com
 > 	- Numéro de tel
-> 		- z
+> 		- 07 68 64 51 74
+> 	- Pseudo Discord : 
+> 		- nanou9228
+
+> - Romain ( futur aide / collab sur les projets / sur le dev etc )
+> 	- Les réseaux
+> 		- https://www.instagram.com/romain_maxsim/
+> 	- Pseudo Discord : 
+> 		- _romaind
+
+> - Joris  ( futur aide / collab sur les projets / sur le dev etc )
+> 	- Les réseaux
+> 		- https://www.instagram.com/jorisflohic/
+> 	- Pseudo Discord : 
+> 		- jorisf
