@@ -16,3 +16,6 @@
 ### Projets bees
 - [[ForBees]]
 - [[SongFlow]]
+
+# Les contacts & récaps des réseaux / liens importants
+- [[Ressources]]

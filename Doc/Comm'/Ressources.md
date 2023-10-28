@@ -130,7 +130,6 @@
 > 		- Récupération emploi du temps école automatique : https://github.com/WadeFade/api-edt-epsi
 > 	- Les réseaux
 > 		- https://www.linkedin.com/in/mathis-gauthier/
-> 		- https://www.instagram.com/mathisounet44/
 > 	- Les mails
 > 		- gauthier.mathis44@gmail.com
 > 		- mathis.gauthier@formenu.fr
