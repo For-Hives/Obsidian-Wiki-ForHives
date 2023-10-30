@@ -1,4 +1,14 @@
 (invitation Discord) : https://discord.gg/7PDcq5NxTQ
+
+**Gestion de projet & orga'** : 
+	ForHives
+		https://github.com/orgs/For-Hives/projects/1
+	ForMenu
+		https://github.com/orgs/For-Hives/projects/1/views/1
+	Artriste
+		https://github.com/orgs/For-Hives/projects/3
+	My Makeup 
+		https://github.com/orgs/For-Hives/projects/2
 # Les projets actuels :
 > - ***[[ForMenu]] - La carte de restaurant digital***
 > 	- Sites webs : 
@@ -25,18 +35,18 @@
 > 		- [ForMenu Liens](https://discord.com/channels/749294142114496646/912403282926919701)
 > 		- [Présentation Rapide de ForMenu (mail etc)](https://discord.com/channels/749294142114496646/990621087081586688)
 > 		- [Pour les Commerciaux](https://discord.com/channels/749294142114496646/1094254004336341012)
-> 	-  Website : 
-> 		- [ForMenu Website](https://formenu.fr/)
-> 		- [ForMenu Website API](https://api.formenu.fr/_/)
-> 		- [ForMenu App](https://app.formenu.fr/)
-> 		- [ForMenu app api](https://formenu.fr/api)
-> 		- [ForMenu app admin](https://admin.app.formenu.fr)
 > 	- Drive : 
 > 		- [Drive Google](https://drive.google.com/drive/folders/1CTc2Z1FNPDm4LkfQNnwy-B-fluT7F95J)
 > 		- [Google doc résumé des idées initiales](<j'ai mis à jour les différents éléments (typiquement, dans le drive google, https://docs.google.com/document/d/1B2ViOj6rmj5wBKc8lkHxGB6eq3QR0QNDnhmm313nV00/edit )>)
 > 	- Maquette Figma : 
 > 		- [Maquette ForMenu](https://www.figma.com/file/ZxIj6Kc9QWGo2uBoudSWBA/ForMenu?type=design&mode=design)
-> 
+> 		- [Posts insta (figma)](https://www.figma.com/file/IQ1wA59xcD3CuyTljnANlm/Comm-insta?type=design&mode=design&t=Sguv3DWWt7yttO1R-1)
+> 	- Ressources sites web : 
+> 		- https://github.com/For-Hives/formenu-front/tree/master/public
+> 		- https://github.com/For-Hives/formenu/tree/main/public
+
+---
+
 > - ***[[ForHives]] - L'entité générale qui gère tout les autres projet***
 > 	- Sites webs : 
 > 		- [https://forhives.fr/](https://forhives.fr/) ( en construction, arrivera ~ mi 2024 )
@@ -50,7 +60,13 @@
 > 		- pro@forhives.fr
 > 	- Discord
 > 		- (invitation Discord) : https://discord.gg/7PDcq5NxTQ
-> 
+> 	- Drive 
+> 		- [Drive Général ForHives](https://drive.google.com/drive/folders/1RX-5pLdW1AErOgws1PG2m3lUOi6BPXjZ?usp=sharing)
+> 	- Ressources site web
+> 		- https://github.com/For-Hives/forhives-front/tree/main/public
+
+---
+
 > - ***[[My-Makeup]] : La plateforme de recherche de maquilleuses professionnelles***
 > 	- Sites webs : 
 > 		- [https://my-makeup.fr/](https://my-makeup.fr/)
@@ -67,7 +83,12 @@
 > 		- help@my-makeup.fr
 > 		- jobs@my-makeup.fr
 > 		- pro@my-makeup.fr
-> 
+> 	- Ressource site web : 
+> 		- https://github.com/For-Hives/my-makeup/tree/main/public
+> 		- https://github.com/For-Hives/my-makeup/tree/main/dev-assets
+
+---
+
 > - ***[[Artriste]] : une plateforme E-commerce de vente en ligne d'oeuvre d'art ultra unique et limitée***
 > 	- Site webs : 
 > 		- [https://artriste.cc/](https://artriste.cc/)
@@ -77,6 +98,13 @@
 > 		- [https://www.instagram.com/artriste.cc/](https://www.instagram.com/artriste.cc/)
 > 	- Mails : 
 > 		- contact@artriste.cc
+> 	- Ressource site web : 
+> 		- https://github.com/For-Hives/artriste-website/tree/master/static/resources
+
+
+---
+---
+---
 
 # La team
 > - Andy ( CEO )
@@ -106,7 +134,9 @@
 > 		- 06 21 58 26 84
 > 	- Pseudo Discord : 
 > 		- cinquinandy
-> 
+
+---
+
 > - Bréval ( CTO )
 > 	- Les projets 
 > 		- https://brev.al/ (portefolio)
@@ -123,7 +153,9 @@
 > 		- 07 82 51 06 64
 > 	- Pseudo Discord : 
 > 		- lightin_
-> 
+
+---
+
 > - Mathis ( CTO )
 > 	- Les projets 
 > 		- https://wadefade.fr/ (portefolio)
@@ -138,7 +170,9 @@
 > 		- 07 81 91 09 49
 > 	- Pseudo Discord : 
 > 		- wade_fade
-> 
+
+---
+
 > - Yoni ( Lead commercial )
 > 	- Les réseaux
 > 		- https://www.linkedin.com/in/yoni-kuntz-0b1186296/
@@ -150,6 +184,12 @@
 > 		- 06 79 20 42 66
 > 	- Pseudo Discord : 
 > 		- letomatier
+
+
+---
+---
+---
+
 # Les gens qui sont proches
 > - Damien ( celui qui va gérer les conseils financier )
 > 	- Les réseaux
@@ -164,6 +204,7 @@
 > 		- banbudo0744
 > 		- daz1526
 
+---
 
 > - Roy ( commercial en Haute Savoie )
 > 	- Les réseaux
@@ -175,6 +216,8 @@
 > 		- 06 67 64 09 55
 > 	- Pseudo Discord : 
 > 		- genkaro
+
+---
 
 > - Orlane  ( petite soeur Andy, va aider pour la partie commerciale sur Montpellier )
 > 	- Les projets 
@@ -190,6 +233,8 @@
 > 	- Pseudo Discord : 
 > 		- nanou9228
 
+---
+
 > - Romain ( futur aide / collab sur les projets / sur le dev etc )
 > 	- Les réseaux
 > 		- https://www.instagram.com/romain_maxsim/
@@ -197,6 +242,8 @@
 > 		- RomainDFLS@gmail.com
 > 	- Pseudo Discord : 
 > 		- _romaind
+
+---
 
 > - Joris  ( futur aide / collab sur les projets / sur le dev etc )
 > 	- Les réseaux
