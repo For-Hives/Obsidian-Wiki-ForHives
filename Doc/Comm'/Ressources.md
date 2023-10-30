@@ -1,4 +1,5 @@
 (invitation Discord) : https://discord.gg/7PDcq5NxTQ
+Chann spécial pour Diane : https://discord.com/channels/749294142114496646/1167913183021903983
 
 **Gestion de projet & orga'** : 
 	ForHives
