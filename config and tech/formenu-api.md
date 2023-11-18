@@ -140,3 +140,18 @@ server {
 ```
 
 
+
+----
+Import / export des données : 
+
+> [Data import | Strapi Documentation](https://docs.strapi.io/dev-docs/data-management/import)
+> [Data export | Strapi Documentation](https://docs.strapi.io/dev-docs/data-management/export)
+> 
+> `yarn strapi export --no-encrypt --exclude files`
+> 
+> `sudo docker cp d6c8097f943d:/app/export_20231118154431.tar.gz /home/CinquinAndy`
+> 
+> `scp CinquinAndy@andy-cinquin.fr:/home/CinquinAndy/export_20231118154431.tar.gz "C:\Users\andyq\DocumentsAndy\ProjetPro2023_2024\ForMenu\api-formenu"`
+> 
+> `yarn strapi import -f "C:\Users\andyq\DocumentsAndy\ProjetPro2023_2024\ForMenu\export formenu api\export_20231118154431.tar.gz"`
+
