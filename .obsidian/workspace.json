@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config and tech/formenu-api.md",
+                "file": "config/Linux Cool Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config and tech/formenu-api.md",
+                "file": "config/Linux Cool Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config and tech/formenu-api.md",
+                "file": "config/Linux Cool Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config and tech/formenu-api.md"
+                "file": "config/Linux Cool Setup.md"
               }
             }
           }
@@ -137,39 +137,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "publish:Publish changes...": false
     }
   },
   "active": "a84de683e888bc3c",
   "lastOpenFiles": [
-    "Doc/ForMenu.md",
-    "Doc/Comm'/Ressources.md",
+    "config/formenu-api.md",
+    "config/adminio.md",
     "README.md",
-    "Doc/Artriste.md",
-    "Doc/My-Makeup.md",
-    "Doc/ForHives.md",
-    "Doc/Comm'",
-    "background.png",
+    "X. Templates/!Template - Aliases.md",
+    "X. Templates/!Template - Note de base.md",
+    "vkr.md",
+    "config/Linux Cool Setup.md",
     "Doc/ForBees/ForBees.md",
-    "config and tech/adminio.md",
-    "config and tech/adminio.md",
-    "config and tech/formenu-api.md",
     "2023-10-21.md",
     "config and tech",
     "workflow/docs.fohives.fr.md",
     "workflow",
+    "Doc/Artriste.md",
+    "background.png",
     "Doc/Portefolio Andy.md",
     "Doc/ForBees/SongFlow.md",
     "Doc/Second-brain Andy.md",
-    "X. Templates/!Template - Note de base.md",
     "Bibliothèque d'images/vps users.png",
     "Bibliothèque d'images/ForHives.zip",
     "Bibliothèque d'images/ForHives.png",
@@ -178,7 +175,6 @@
     "Bibliothèque d'images/ForHives (1).ai",
     "Bibliothèque d'images",
     "Doc/ForBees",
-    "X. Templates/!Template - Aliases.md",
     "X. Templates/Template - Daily.md",
     "X. Templates/Template - annotation pdf.md",
     "X. Templates",
