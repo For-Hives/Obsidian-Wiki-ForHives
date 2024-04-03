@@ -1,5 +1,4 @@
 (invitation Discord) : https://discord.gg/7PDcq5NxTQ
-Chann spécial pour Diane : https://discord.com/channels/749294142114496646/1167913183021903983
 
 **Gestion de projet & orga'** : 
 	ForHives
@@ -114,11 +113,17 @@ Chann spécial pour Diane : https://discord.com/channels/749294142114496646/1167
 > 		- [~Second Brain](https://second-brain.andy-cinquin.fr/)
 > 		- [~Publish Second Brain](https://publish-second-brain.andy-cinquin.fr/)
 > 		- [~Maeva Cinquin](https://cinquin-maeva.com/)
+> 		- [~Mariage Maeva Cinquin](https://wedding.cinquin-maeva.com/)
 > 		- [~Orlane Cinquin](https://maitresse-nanou.fr/)
 > 		- [~Isabelle Cinquin](https://isabelle-cinquin.fr/)
 > 		- [~Les YD Rangées](https://lesydrangees.com/)
 > 		- [~Julie Sommaro](https://julie-sommaro.com/)
 > 		- [~Colors](https://colors.andy-cinquin.fr/)
+> 		- [~Générateur de groupe](https://groupes.maitresse-nanou.fr/)
+> 		- [~Template projet forhives](https://github.com/For-Hives/forhives-base)
+> 		- [~Plugin: Obsidian: Note to Strapi article / realisation](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai)
+> 		- [~Script Export Repo to Prompt for LLM](https://github.com/CinquinAndy/export-repository-to-prompt-for-llm)
+> 		- [~Plugin: Strapi: Auto generate ALT / Caption / Name for images](https://github.com/CinquinAndy/plugin-auto-alt-caption-title-on-images-ai-enhanced)
 > 		- ~ projet à reprendre (à adapter) : https://infotel-safari.beta.andy-cinquin.fr/ (mais quasi fini)
 > 	- Les réseaux 
 > 		- https://www.instagram.com/cinquin.andy/

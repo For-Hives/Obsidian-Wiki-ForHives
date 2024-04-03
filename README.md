@@ -5,17 +5,6 @@
 
 ![background.png](background.png)
 ## Projets ForHives 🐝
-### Projets principaux
-- [[My-Makeup]]
-- [[ForMenu]]
-- [[ForHives]]
-- [[Artriste]]
-### Projets persos
-- [[Portefolio Andy]]
-- [[Second-brain Andy]]
-### Projets bees
-- [[ForBees]]
-- [[SongFlow]]
 
-# Les contacts & récaps des réseaux / liens importants
-- [[Ressources]]
+### Les contacts & récaps des réseaux / liens importants
+![[Ressources]]
