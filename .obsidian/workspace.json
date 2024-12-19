@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doc/Comm'/Ressources.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ForVoyez"
+              "title": "README"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lesyd",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doc/Comm'/Ressources.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ForVoyez"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doc/Comm'/Ressources.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ForVoyez"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -140,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doc/Comm'/Ressources.md"
-              }
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           }
         ]
@@ -163,34 +164,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a8102c180f6fdddf",
+  "active": "33b4953f272720de",
   "lastOpenFiles": [
-    "README.md",
-    "workflow/docs.fohives.fr.md",
-    "Nouveau Document texte.txt",
-    "config/Linux Cool Setup.md",
-    "config",
     "X. Templates/!Template - Aliases.md",
-    "X. Templates/!Template - Note de base.md",
-    "background.png",
-    "Doc/Portefolio Andy.md",
-    "Doc/Second-brain Andy.md",
-    "Doc/My-Makeup.md",
-    "Doc/ForMenu.md",
-    "Doc/ForHives.md",
+    "workflow/docs.fohives.fr.md",
+    "Doc/ForVoyez.md",
     "Doc/Artriste.md",
-    "Doc/ForBees/ForBees.md",
     "Doc/ForBees/SongFlow.md",
+    "Doc/ForBees/ForBees.md",
+    "Doc/Comm'/Ressources.md",
     "config and tech/formenu-api.md",
+    "Bibliothèque d'images/vps users.png",
+    "Bibliothèque d'images/ForHives.png",
+    "Bibliothèque d'images/ForHives (1).svg",
+    "config/Linux Cool Setup.md",
     "config and tech/adminio.md",
+    "README.md",
+    "background.png",
+    "Doc/ForMenu.md",
+    "Doc/Second-brain Andy.md",
+    "Doc/Portefolio Andy.md",
+    "Doc/My-Makeup.md",
+    "Nouveau Document texte.txt",
+    "config",
+    "X. Templates/!Template - Note de base.md",
+    "Doc/ForHives.md",
     "Doc/Comm'",
     "2023-10-21.md",
     "config and tech",
     "workflow",
-    "Bibliothèque d'images/vps users.png",
     "Bibliothèque d'images/ForHives.zip",
-    "Bibliothèque d'images/ForHives.png",
-    "Bibliothèque d'images/ForHives (1).svg",
     "Bibliothèque d'images/ForHives (1).ait",
     "Bibliothèque d'images/ForHives (1).ai",
     "Bibliothèque d'images",

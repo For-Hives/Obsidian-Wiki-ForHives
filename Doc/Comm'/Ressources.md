@@ -160,7 +160,7 @@
 > 		- [~Plugin: Obsidian: Note to Strapi article / realisation](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai)
 > 		- [~Script Export Repo to Prompt for LLM](https://github.com/CinquinAndy/export-repository-to-prompt-for-llm)
 > 		- [~Plugin: Strapi: Auto generate ALT / Caption / Name for images](https://github.com/CinquinAndy/plugin-auto-alt-caption-title-on-images-ai-enhanced)
-> 		- ~ projet à reprendre (à adapter) : https://infotel-safari.beta.andy-cinquin.fr/ (mais quasi fini)
+> 		- ...
 > 	- Les réseaux 
 > 		- https://www.instagram.com/cinquin.andy/
 > 		- https://www.instagram.com/cinquin.andy.design/
@@ -212,20 +212,6 @@
 > 		- 07 81 91 09 49
 > 	- Pseudo Discord : 
 > 		- wade_fade
-
----
-
-> - Yoni ( Lead commercial )
-> 	- Les réseaux
-> 		- https://www.linkedin.com/in/yoni-kuntz-0b1186296/
-> 		- https://www.instagram.com/kuntz.yoni/
-> 	- Les mails
-> 		- yoni.kuntz@formenu.fr
-> 		- yoni0kuntz@gmail.com
-> 	- Numéro de tel
-> 		- 06 79 20 42 66
-> 	- Pseudo Discord : 
-> 		- letomatier
 
 
 ---
