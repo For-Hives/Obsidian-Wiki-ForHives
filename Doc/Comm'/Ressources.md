@@ -1,8 +1,10 @@
 (invitation Discord) : https://discord.gg/7PDcq5NxTQ
 
 **Gestion de projet & orga'** : 
+	ForVoyez
+		https://github.com/orgs/For-Hives/projects/5
 	ForHives
-		https://github.com/orgs/For-Hives/projects/1
+		https://github.com/orgs/For-Hives/projects/4
 	ForMenu
 		https://github.com/orgs/For-Hives/projects/1/views/1
 	Artriste
@@ -10,6 +12,40 @@
 	My Makeup 
 		https://github.com/orgs/For-Hives/projects/2
 # Les projets actuels :
+
+> - ***[[ForVoyez]] - Le SaaS de génération automatique de descriptions d'images***
+> 	- Sites web : 
+> 	    - [ForVoyez Website](https://forvoyez.com/)
+> 	    - [Documentation ForVoyez](https://doc.forvoyez.com/)
+> 	  - Articles :
+> 	    - [Portfolio ForVoyez](https://andy-cinquin.fr/portefolio/forvoyez)
+> 	    - [Guide d'utilisation ForVoyez](https://andy-cinquin.fr/blog/generer-descriptions-images-alt)
+> 	  - Réseaux :
+> 	    - [LinkedIn](https://www.linkedin.com/company/forvoyez/)
+> 	    - [Instagram](https://www.instagram.com/forvoyez/)
+> 	    - [Facebook](https://www.facebook.com/profile.php?id=61560832032568)
+> 	  - GitHub :
+> 	    - [GitHub ForVoyez](https://github.com/For-Hives/ForVoyez)
+> 	    - [GitHub Documentation ForVoyez](https://github.com/For-Hives/ForVoyez-Doc)
+> 	  - CapRover :
+> 	    - [CapRover ForVoyez](https://captain.beta.andy-cinquin.fr/#/apps/details/forvoyez)
+> 	    - [CapRover Documentation ForVoyez](https://captain.beta.andy-cinquin.fr/#/apps/details/forvoyez-doc)
+> 	  - Gestion de projet :
+> 	    - [Kanban ForVoyez](https://github.com/orgs/For-Hives/projects/5?query=is%3Aopen+sort%3Aupdated-desc)
+> 	  - Services tiers :
+> 	    - [Clerk Dashboard](https://dashboard.clerk.com/)
+> 	    - [LemonSqueezy Dashboard](https://app.lemonsqueezy.com/dashboard)
+> 	    - [Cloudflare](https://dash.cloudflare.com/83bfc104d4a2e71a5d8210f2364ee9e4/forvoyez.com)
+> 	  - Discord :
+> 	    - [ForVoyez Chat](https://discord.gg/NpFFMxED2Z)
+> 	    - [ForVoyez Liens](https://discord.gg/aKcrFXDySJ)
+> 	  - Mails :
+> 	    - contact@forvoyez.com
+> 	    - support@forvoyez.com
+> 	    - test-playwright@forvoyez.com
+> 	    - test-playwright-sub@forvoyez.com
+
+
 > - ***[[ForMenu]] - La carte de restaurant digital***
 > 	- Sites webs : 
 > 		- [ForMenu Website (landing page)](https://formenu.fr/)
