@@ -61,10 +61,6 @@
 > 		- jobs@formenu.fr
 > 		- andy.cinquin@formenu.fr
 > 		- breval.lefloch@formenu.fr
-> 		- damien.haleba@formenu.fr
-> 		- mathis.gauthier@formenu.fr
-> 		- roy.tissier@formenu.fr
-> 		- yoni.kuntz@formenu.fr
 > 	- Discord : 
 > 		- [ForMenu password](https://discord.com/channels/749294142114496646/1094274895120179271)
 > 		- [ForMenu Chat](https://discord.com/channels/749294142114496646/902827433932226590)
@@ -191,8 +187,6 @@
 > 		- breval.lefloch@formenu.fr 
 > 		- breval.lefloch@forhives.fr
 > 		- breval.lefloch@my-makeup.fr
-> 	- Numéro de tel
-> 		- 07 82 51 06 64
 > 	- Pseudo Discord : 
 > 		- lightin_
 
@@ -205,78 +199,7 @@
 > 	- Les réseaux
 > 		- https://www.linkedin.com/in/mathis-gauthier/
 > 	- Les mails
-> 		- gauthier.mathis44@gmail.com
 > 		- mathis.gauthier@formenu.fr
 > 		- mathis.gauthier@forhives.fr
-> 	- Numéro de tel
-> 		- 07 81 91 09 49
-> 	- Pseudo Discord : 
-> 		- wade_fade
 
 
----
----
----
-
-# Les gens qui sont proches
-> - Damien ( celui qui va gérer les conseils financier )
-> 	- Les réseaux
-> 		- https://www.instagram.com/damien980675/
-> 		- https://www.linkedin.com/in/damien-haleba-142284bb/
-> 	- Les mails
-> 		- benisbak@hotmail.fr
-> 		- halebadamien@gmail.com
-> 	- Numéro de tel
-> 		- 07 81 27 90 10
-> 	- Pseudo Discord : 
-> 		- banbudo0744
-> 		- daz1526
-
----
-
-> - Roy ( commercial en Haute Savoie )
-> 	- Les réseaux
-> 		- https://www.instagram.com/roytissier/
-> 	- Les mails
-> 		- roytissier@gmail.com
-> 		- roy.tissier@formenu.fr
-> 	- Numéro de tel
-> 		- 06 67 64 09 55
-> 	- Pseudo Discord : 
-> 		- genkaro
-
----
-
-> - Orlane  ( petite soeur Andy, va aider pour la partie commerciale sur Montpellier )
-> 	- Les projets 
-> 		- https://maitresse-nanou.fr/
-> 	- Les réseaux
-> 		- https://www.instagram.com/orlane_cqn/
-> 		- https://www.instagram.com/maitresse_orlane_/
-> 	- Les mails
-> 		- orlanelyon@gmail.com
-> 		- orlane.cinquin@gmail.com
-> 	- Numéro de tel
-> 		- 07 68 64 51 74
-> 	- Pseudo Discord : 
-> 		- nanou9228
-
----
-
-> - Romain ( futur aide / collab sur les projets / sur le dev etc )
-> 	- Les réseaux
-> 		- https://www.instagram.com/romain_maxsim/
-> 	- les mails
-> 		- RomainDFLS@gmail.com
-> 	- Pseudo Discord : 
-> 		- _romaind
-
----
-
-> - Joris  ( futur aide / collab sur les projets / sur le dev etc )
-> 	- Les réseaux
-> 		- https://www.instagram.com/jorisflohic/
-> 	- Les mails 
-> 		- flohic.joris@gmail.com
-> 	- Pseudo Discord : 
-> 		- jorisf
