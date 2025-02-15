@@ -45,37 +45,43 @@
 > 	    - test-playwright@forvoyez.com
 > 	    - test-playwright-sub@forvoyez.com
 
+---
 
-> - ***[[ForMenu]] - La carte de restaurant digital***
-> 	- Sites webs : 
-> 		- [ForMenu Website (landing page)](https://formenu.fr/)
-> 		- [ForMenu Website AP (gestion de contenu landing page)](https://api.formenu.fr/_/)
-> 		- [ForMenu App](https://app.formenu.fr/)
-> 		- [ForMenu app api](https://formenu.fr/api)
-> 		- [ForMenu app admin](https://admin.app.formenu.fr)
-> 	- Réseaux : 
-> 		- [https://www.instagram.com/formenu.fr/](https://www.instagram.com/formenu.fr/)
-> 		- [https://www.linkedin.com/company/formenu/](https://www.linkedin.com/company/formenu/)
-> 	- Mails : 
-> 		- contact@formenu.fr
-> 		- jobs@formenu.fr
-> 		- andy.cinquin@formenu.fr
-> 		- breval.lefloch@formenu.fr
-> 	- Discord : 
-> 		- [ForMenu password](https://discord.com/channels/749294142114496646/1094274895120179271)
-> 		- [ForMenu Chat](https://discord.com/channels/749294142114496646/902827433932226590)
-> 		- [ForMenu Liens](https://discord.com/channels/749294142114496646/912403282926919701)
-> 		- [Présentation Rapide de ForMenu (mail etc)](https://discord.com/channels/749294142114496646/990621087081586688)
-> 		- [Pour les Commerciaux](https://discord.com/channels/749294142114496646/1094254004336341012)
-> 	- Drive : 
-> 		- [Drive Google](https://drive.google.com/drive/folders/1CTc2Z1FNPDm4LkfQNnwy-B-fluT7F95J)
-> 		- [Google doc résumé des idées initiales](<j'ai mis à jour les différents éléments (typiquement, dans le drive google, https://docs.google.com/document/d/1B2ViOj6rmj5wBKc8lkHxGB6eq3QR0QNDnhmm313nV00/edit )>)
-> 	- Maquette Figma : 
-> 		- [Maquette ForMenu](https://www.figma.com/file/ZxIj6Kc9QWGo2uBoudSWBA/ForMenu?type=design&mode=design)
-> 		- [Posts insta (figma)](https://www.figma.com/file/IQ1wA59xcD3CuyTljnANlm/Comm-insta?type=design&mode=design&t=Sguv3DWWt7yttO1R-1)
-> 	- Ressources sites web : 
-> 		- https://github.com/For-Hives/formenu-front/tree/master/public
-> 		- https://github.com/For-Hives/formenu/tree/main/public
+> - ***[[ForVoyez]] - Le SaaS de génération automatique de descriptions d'images***
+> 	- Sites web : 
+> 	    - [ForVoyez Website](https://forvoyez.com/)
+> 	    - [Documentation ForVoyez](https://doc.forvoyez.com/)
+> 	  - Articles :
+> 	    - [Portfolio ForVoyez](https://andy-cinquin.fr/portefolio/forvoyez)
+> 	    - [Guide d'utilisation ForVoyez](https://andy-cinquin.fr/blog/generer-descriptions-images-alt)
+> 	  - Plugins :
+> 	    - [Plugin Obsidian](https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin)
+> 	    - [Plugin WordPress](https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin)
+> 	    - [Plugin Strapi](https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin)
+> 	  - Réseaux :
+> 	    - [LinkedIn](https://www.linkedin.com/company/forvoyez/)
+> 	    - [Instagram](https://www.instagram.com/forvoyez/)
+> 	    - [Facebook](https://www.facebook.com/profile.php?id=61560832032568)
+> 	  - GitHub :
+> 	    - [GitHub ForVoyez](https://github.com/For-Hives/ForVoyez)
+> 	    - [GitHub Documentation ForVoyez](https://github.com/For-Hives/ForVoyez-Doc)
+> 	  - CapRover :
+> 	    - [CapRover ForVoyez](https://captain.beta.andy-cinquin.fr/#/apps/details/forvoyez)
+> 	    - [CapRover Documentation ForVoyez](https://captain.beta.andy-cinquin.fr/#/apps/details/forvoyez-doc)
+> 	  - Gestion de projet :
+> 	    - [Kanban ForVoyez](https://github.com/orgs/For-Hives/projects/5?query=is%3Aopen+sort%3Aupdated-desc)
+> 	  - Services tiers :
+> 	    - [Clerk Dashboard](https://dashboard.clerk.com/)
+> 	    - [LemonSqueezy Dashboard](https://app.lemonsqueezy.com/dashboard)
+> 	    - [Cloudflare](https://dash.cloudflare.com/83bfc104d4a2e71a5d8210f2364ee9e4/forvoyez.com)
+> 	  - Discord :
+> 	    - [ForVoyez Chat](https://discord.gg/NpFFMxED2Z)
+> 	    - [ForVoyez Liens](https://discord.gg/aKcrFXDySJ)
+> 	  - Mails :
+> 	    - contact@forvoyez.com
+> 	    - support@forvoyez.com
+> 	    - test-playwright@forvoyez.com
+> 	    - test-playwright-sub@forvoyez.com
 
 ---
 
@@ -140,38 +146,79 @@
 
 # La team
 > - Andy ( CEO )
-> 	- Les projets
-> 		- [~Portefolio](https://andy-cinquin.fr/)
-> 		- [~Second Brain](https://second-brain.andy-cinquin.fr/)
-> 		- [~Publish Second Brain](https://publish-second-brain.andy-cinquin.fr/)
-> 		- [~Maeva Cinquin](https://cinquin-maeva.com/)
-> 		- [~Mariage Maeva Cinquin](https://wedding.cinquin-maeva.com/)
-> 		- [~Orlane Cinquin](https://maitresse-nanou.fr/)
-> 		- [~Isabelle Cinquin](https://isabelle-cinquin.fr/)
-> 		- [~Les YD Rangées](https://lesydrangees.archive.andy-cinquin.fr/)
-> 		- [~Julie Sommaro](https://julie-sommaro.com/)
-> 		- [~Colors](https://colors.andy-cinquin.fr/)
-> 		- [~Générateur de groupe](https://groupes.maitresse-nanou.fr/)
-> 		- [~Template projet forhives](https://github.com/For-Hives/forhives-base)
-> 		- [~Plugin: Obsidian: Note to Strapi article / realisation](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai)
-> 		- [~Script Export Repo to Prompt for LLM](https://github.com/CinquinAndy/export-repository-to-prompt-for-llm)
-> 		- [~Plugin: Strapi: Auto generate ALT / Caption / Name for images](https://github.com/CinquinAndy/plugin-auto-alt-caption-title-on-images-ai-enhanced)
-> 		- ...
-> 	- Les réseaux 
-> 		- https://www.instagram.com/cinquin.andy/
-> 		- https://www.instagram.com/cinquin.andy.design/
-> 		- https://www.malt.fr/profile/andycinquin
-> 		- https://www.facebook.com/andy.cinquin
-> 		- https://www.linkedin.com/in/andy-cinquin/
-> 		- https://github.com/CinquinAndy/
-> 	- Les mails 
-> 		- contact@andy-cinquin.fr
-> 		- veille@andy-cinquin.fr
-> 		- cinquin.andy@gmail.com
-> 	- Numéro de tel 
-> 		- 06 21 58 26 84
-> 	- Pseudo Discord : 
-> 		- cinquinandy
+> 	- Projets SaaS :
+> 		- [ForVoyez](https://forvoyez.com) - *SaaS de génération de titre, légendes et textes alternatifs*
+> 		- [ForMenu](https://formenu.fr/) - *Landing page ForMenu*
+> 		- [ForMenu App](https://app.formenu.fr/) - *Application webapp responsive*
+> 		- [My Makeup](https://my-makeup.fr/) - *Plateforme de mise en relation pour maquilleuses*
+> 		- [Artriste](https://artriste.cc/) - *Plateforme e-commerce d'art*
+> 		- [ForHives](https://forhives.fr/) - *Site web agence*
+>
+> 	- Projets AWS Wildlife :
+> 		- [AWS Powered Portrait](https://andy-cinquin.com/portefolio/wildlife-aws-powered-portraits)
+> 		- [AWS Portrait Gallery](https://andy-cinquin.com/portefolio/wildlife-aws-portrait-gallery)
+> 		- [AWS Bartender Mixologist](https://andy-cinquin.com/portefolio/wildlife-aws-bartender-mixologist)
+> 		- [AWS NRF Retail](https://andy-cinquin.com/portefolio/wildlife-aws-nrf-retail)
+> 		- [AWS Sticker Generator](https://andy-cinquin.com/portefolio/wildlife-aws-sticker-generator)
+>
+> 	- Sites web personnels :
+> 		- [Portfolio](https://andy-cinquin.fr/)
+> 		- [Second Brain](https://second-brain.andy-cinquin.fr/)
+> 		- [Publish Second Brain](https://publish-second-brain.andy-cinquin.fr/)
+>
+> 	- Sites clients/famille :
+> 		- [Maeva Cinquin](https://cinquin-maeva.com/) - *Maquilleuse pro*
+> 		- [Mariage Maeva Cinquin](https://wedding.cinquin-maeva.com/)
+> 		- [Orlane Cinquin](https://maitresse-nanou.fr/) - *Prof des écoles*
+> 		- [Isabelle Cinquin](https://isabelle-cinquin.fr/) - *Nounou pro*
+> 		- [Les YD Rangées](https://lesydrangees.archive.andy-cinquin.fr/) - *Organisation et rangement*
+> 		- [Julie Sommaro](https://julie-sommaro.com/) - *Fashion designer*
+> 		- [Cosi-company](https://andy-cinquin.com/portefolio/cosi-company) - *Entreprise de construction*
+> 		- [La Taverne Des Aventuriers](https://andy-cinquin.com/portefolio/latavernedesaventuriers) - *Communauté de jeux*
+>
+> 	- Outils et projets :
+> 		- [Colors](https://colors.andy-cinquin.fr/) - *Générateur de couleur*
+> 		- [Générateur de groupe](https://groupes.maitresse-nanou.fr/)
+> 		- [Template projet forhives](https://github.com/For-Hives/forhives-base)
+>
+> 	- Plugins développés :
+> 		- [Plugin Obsidian ForVoyez](https://andy-cinquin.com/portefolio/forvoyez-obsidian-plugin)
+> 		- [Plugin WordPress ForVoyez](https://andy-cinquin.com/portefolio/forvoyez-wordpress-plugin)
+> 		- [Plugin Strapi ForVoyez](https://andy-cinquin.com/portefolio/forvoyez-strapi-plugin)
+> 		- [Plugin Obsidian Note to Strapi](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai)
+> 		- [Plugin Strapi Auto ALT](https://github.com/CinquinAndy/plugin-auto-alt-caption-title-on-images-ai-enhanced)
+>
+> 	- Plateformes de gestion :
+> 		- [Analytics Umami](https://umami.wadefade.fr/)
+> 		- [CapRover](http://captain.beta.andy-cinquin.fr/#/apps/)
+> 		- [Minio](https://adminio.beta.andy-cinquin.fr/browser)
+> 		- [Uptime Kuma](https://kuma.lightin.io/dashboard/)
+> 		- [SonarQube](https://sonarqube.lightin.io/)
+> 		- [ReFlux](https://reflux.replicate.dev/)
+> 		- [Postiz](https://postiz.andy-cinquin.fr/launches)
+>
+> 	- Services tiers :
+> 		- [Backblaze b2](https://secure.backblaze.com/b2_buckets.htm)
+> 		- [OVH](https://www.ovh.com/manager/#/hub)
+> 		- [Mailgun](https://app.mailgun.com/)
+> 		- [Contabo](https://my.contabo.com/vps/0#)
+>
+> 	- Réseaux sociaux :
+> 		- [Instagram Personnel](https://www.instagram.com/cinquin.andy/)
+> 		- [Instagram Design](https://www.instagram.com/cinquin.andy.design/)
+> 		- [Malt](https://www.malt.fr/profile/andycinquin)
+> 		- [Facebook](https://www.facebook.com/andy.cinquin)
+> 		- [LinkedIn](https://www.linkedin.com/in/andy-cinquin/)
+> 		- [GitHub](https://github.com/CinquinAndy/)
+>
+> 	- Contact :
+> 		- Mails :
+> 			- contact@andy-cinquin.fr
+> 			- veille@andy-cinquin.fr
+> 			- cinquin.andy@gmail.com
+> 		- Téléphone : 06 21 58 26 84
+> 		- Discord : cinquinandy
+
 
 ---
 
@@ -201,5 +248,4 @@
 > 	- Les mails
 > 		- mathis.gauthier@formenu.fr
 > 		- mathis.gauthier@forhives.fr
-
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Doc/Comm'/Ressources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ressources"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Doc/Comm'/Ressources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Ressources"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Doc/ForVoyez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from ForVoyez"
             }
           },
           {
@@ -139,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Doc/ForVoyez.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of ForVoyez"
             }
           }
         ]
@@ -159,16 +160,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "publish:Publish changes...": false
     }
   },
   "active": "33b4953f272720de",
   "lastOpenFiles": [
+    "Doc/ForVoyez.md",
+    "README.md",
     "X. Templates/!Template - Aliases.md",
     "workflow/docs.fohives.fr.md",
-    "Doc/ForVoyez.md",
     "Doc/Artriste.md",
     "Doc/ForBees/SongFlow.md",
     "Doc/ForBees/ForBees.md",
@@ -179,7 +179,6 @@
     "Bibliothèque d'images/ForHives (1).svg",
     "config/Linux Cool Setup.md",
     "config and tech/adminio.md",
-    "README.md",
     "background.png",
     "Doc/ForMenu.md",
     "Doc/Second-brain Andy.md",
